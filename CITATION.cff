@@ -1,7 +1,7 @@
 cff-version: 1.2.0
 message: "If you use this talk or its code, please cite it as below."
 type: software
-title: "Everything They Don't Tell You in the Claude Demo"
+title: "What They Don't Tell You in the Claude Demo"
 abstract: >-
   Talk slides and companion code demo for the TechTides 2026 talk on vibe coding and
   Claude Code. A one-time coupon redemption function is taken from spec to code

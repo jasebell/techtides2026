@@ -1,6 +1,6 @@
 # TechTides Derry 2026
 
-This is the repository for the talk slides and the demo code that I used for the *What No One Asks In the Claude Demo* talk. 
+This is the repository for the talk slides and the demo code that I used for the *What They Don't Tell You In the Claude Demo* talk. 
 
 ## The Files
 
@@ -43,7 +43,7 @@ If you use this talk, the case study or the code in your own work, please cite i
 ```bibtex
 @misc{bell2026techtides,
   author       = {Bell, Jason},
-  title        = {{Everything They Don't Tell You in the Claude Demo}},
+  title        = {{What They Don't Tell You in the Claude Demo}},
   year         = {2026},
   month        = oct,
   howpublished = {Conference talk and companion code, TechTides 2026},
