@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this talk or its code, please cite it as below."
+type: software
+title: "Everything They Don't Tell You in the Claude Demo"
+abstract: >-
+  Talk slides and companion code demo for the TechTides 2026 talk on vibe coding and
+  Claude Code. A one-time coupon redemption function is taken from spec to code
+  to green tests to review, then shown failing under concurrent load (a
+  check-then-act race condition), together with the fixed version.
+authors:
+  - family-names: Bell
+    given-names: Jason
+    email: jasebell@gmail.com
+repository-code: "https://github.com/jasebell/techtides2026"
+url: "https://github.com/jasebell/techtides2026"
+date-released: "2026-10-27" 
+keywords:
+  - vibe coding
+  - Claude Code
+  - code review
+  - race conditions
+  - AI-assisted development
